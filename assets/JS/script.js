@@ -119,6 +119,12 @@ else if (length <= 128 && length >= 8) {
     getLength()
     }
 
+     else {
+    window.alert("*Password must be at least 8 characters in length and no longer than 128*")
+    getLength()
+    }
+
+
 console.log("User needs a password " + length + " characters in length")
 return passLength;
   }
