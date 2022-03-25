@@ -4,4 +4,4 @@
 
 ## https://ianjustinferris.github.io/random_Password_Generator/
 
-![Random_Password_Genrator](Random_Password_Generator.png)
+![Random_Password_Genrator](./assets/images/Random_Password_Generator.png)
